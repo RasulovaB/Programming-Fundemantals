@@ -37,9 +37,9 @@ Get user's name and DOB. Print out the users full name and approximate age in ye
 
 ## 6. Exception files
 
-   > arithmeticException
-   > arrayindexOutOfBound
-   > numberFormatException
+   > `arithmeticException`
+   > `arrayindexOutOfBound`
+   > `numberFormatException`
    
 [Solution Code](https://github.com/RasulovaB/Programming-Fundemantals/blob/master/ExceptionFile.java)
 
